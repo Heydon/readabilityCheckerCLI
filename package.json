@@ -1,0 +1,30 @@
+{
+  "name": "readability-cli",
+  "version": "0.1.0",
+  "description": "A command line interface for testing the readability of content at a URL or HTML file location",
+  "main": "lib/readability.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "flesch",
+    "readability",
+    "content",
+    "writing"
+  ],
+  "author": "Heydon Pickering <heydon@heydonworks.com> (http://www.heydonworks.com)",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:heydon/readabilityCLI.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "cli-color": "^1.1.0",
+    "jsdom": "^8.0.4",
+    "syllable": "^0.1.4"
+  },
+  "preferGlobal": "true",
+  "bin": {
+    "readability": "lib/readability.js"
+  }
+}
