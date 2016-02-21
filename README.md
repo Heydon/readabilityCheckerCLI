@@ -11,7 +11,7 @@ Returns
 ## Install
 
 ```
-npm install readability-cli -g
+npm install readability-checker -g
 ```
 
 ## Usage
