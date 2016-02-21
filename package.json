@@ -15,7 +15,7 @@
   "author": "Heydon Pickering <heydon@heydonworks.com> (http://www.heydonworks.com)",
   "repository": {
     "type": "git",
-    "url": "git@github.com:Heydon/readabilityCheckerCLI.git"
+    "url": "git://github.com:Heydon/readabilityCheckerCLI.git"
   },
   "license": "ISC",
   "dependencies": {
