@@ -1,5 +1,5 @@
 {
-  "name": "readability-cli",
+  "name": "readability-checker",
   "version": "0.1.0",
   "description": "A command line interface for testing the readability of content at a URL or HTML file location",
   "main": "lib/readability.js",
@@ -15,7 +15,7 @@
   "author": "Heydon Pickering <heydon@heydonworks.com> (http://www.heydonworks.com)",
   "repository": {
     "type": "git",
-    "url": "git@github.com:Heydon/readabilityCLI.git"
+    "url": "git@github.com:Heydon/readabilityCheckerCLI.git"
   },
   "license": "ISC",
   "dependencies": {
