@@ -1,6 +1,6 @@
 # Readability CLI
 
-A node CLI for testing the readability of content using the **Flesch Reading Ease** scale. Can parse local HTML files or URLs.
+A node.js CLI for testing the readability of content using the **Flesch Reading Ease** scale. Can parse local HTML files or URLs.
 
 Returns
 
