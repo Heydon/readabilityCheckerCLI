@@ -7,7 +7,7 @@ Returns
 * **Flesch Reading Ease** score (out of 100; higher means more readable)
 * Notes about the score
 * A list of the longer words (more than 4 syllables)
-* A list of the longer sentences (more than 30 words)
+* A list of the longer sentences (more than 35 words)
 
 ## Install
 

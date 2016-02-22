@@ -1,6 +1,6 @@
 {
   "name": "readability-checker",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A command line interface for testing the readability of content at a URL or HTML file location",
   "main": "lib/readability.js",
   "scripts": {
