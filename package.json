@@ -4,7 +4,7 @@
   "description": "A command line interface for testing the readability of content at a URL or HTML file location",
   "main": "lib/readability.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "lab -vc"
   },
   "keywords": [
     "flesch",
@@ -26,5 +26,9 @@
   "preferGlobal": "true",
   "bin": {
     "readability": "lib/readability.js"
+  },
+  "devDependencies": {
+    "code": "^2.1.0",
+    "lab": "^9.1.0"
   }
 }
